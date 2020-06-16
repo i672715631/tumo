@@ -1,3 +1,7 @@
+**本项目不再维护，本项目不再维护，本项目不再维护。此项目的初衷是提供给大家一个学习的思路，熟悉了业务流程开发一个Blog系统也就不难了**
+
+**作者Blog [https://tycoding.cn/](https://tycoding.cn/) 是使用Hexo搭建的，纯前端页面。Blog的主题：[https://github.com/TyCoding/tumo-next](https://github.com/TyCoding/tumo-next)**
+
 # Tumo Blog
 
 ![](http://cdn.tycoding.cn/tumo.png)
